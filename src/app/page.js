@@ -38,7 +38,7 @@ export default function Home() {
         </AnimatePresence>
 
         <AnimatePresence mode='wait'>
-          {!isLoading && <Hero />}
+          {/* {!isLoading && <Hero />} */}
         </AnimatePresence>
 
       </UserInterestProvider>
