@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import styles from './Chatbot.module.scss';
+import styles from './chatbot.module.scss';
 import ChatList from '../ChatList';
 import Lottie from 'react-lottie';
 import axios from 'axios';
