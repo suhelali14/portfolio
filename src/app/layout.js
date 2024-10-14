@@ -1,15 +1,14 @@
-"use client"
 import './globals.css'
 import { Inter } from 'next/font/google'
 import Header from '../components/header';
-import { useState } from 'react';
+
 
 
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Portfolio',
+  title: 'Suhel ali Portfolio',
   description: 'Welcome to the Portfolio of Suhelali Pakjade',
 }
 
